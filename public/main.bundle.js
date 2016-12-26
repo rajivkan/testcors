@@ -212,7 +212,7 @@ var environment = {
     clientCredentialTokenName: "sagacito_access_token",
     clientCredentialCookieName: "sagacito_cookie_name",
     cookieExpireDays: 3,
-    dashboardApi: "http://rajiv-test.herokuapp.com/dashboard",
+    dashboardApi: "http://rajiv-p1.herokuapp.com/dashboard",
     onboardApi: 'http://login.sg.com:3000/api/onboard/'
 };
 //# sourceMappingURL=/home/rajiv/Projects/sagacito/source-code/sagacito-pgov/client/src/environment.js.map
